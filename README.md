@@ -1,6 +1,6 @@
 # Mosquitto-Spinnaker
 
-##Boker MQTT con Mosquitto en Docker
+# Broker MQTT con Mosquitto en Docker
 
 Este proyecto ejecuta un broker MQTT usando [Eclipse Mosquitto](https://mosquitto.org/) dentro de un contenedor Docker con:
 
